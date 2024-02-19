@@ -8,8 +8,19 @@ Ceate a users profile to eceive a funny mail !
 ***
 
 
-### Screenshot
-![Image text](link.png)
+### Screenshots
+
+Home Page:
+
+<img width="730" alt="Capture d’écran 2024-02-19 à 09 04 58" src="https://github.com/marvinseran/hakers-poulette/assets/124906642/4ed0d744-caba-41e0-829b-869f30a716a6">
+
+Dashboard:
+
+<img width="976" alt="Capture d’écran 2024-02-19 à 09 05 21" src="https://github.com/marvinseran/hakers-poulette/assets/124906642/514c191c-b7d2-4866-a166-49e7a38e53f6">
+
+
+eenshot
+
 ## Technologies
 ***
 A list of technologies and libraries used within the project:
